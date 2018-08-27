@@ -31,7 +31,6 @@ public class ApiUtil {
     }
     /**
      * Show the view or text notification for a long period of time.  This time
-     *
      * @param mMsg
      */
     public static void showLToast(Context mContext, String mMsg) {
