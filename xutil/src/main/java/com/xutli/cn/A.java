@@ -9,4 +9,7 @@ package com.xutli.cn;
 
 
 public class A {
+    public void show() {
+
+    }
 }
